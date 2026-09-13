@@ -5,4 +5,4 @@ Eighth grader programming trash, basically. 🗑<br>
 🍫 Chocolate milk is good.<br><br>
 Current Projects:<br>
 - Life of Dust (not the repo on my account though, that one is scrapped)<br>
-- Bot that can autonomously drive on the ground
+- Small car that uses a fly brain to traverse along the ground
