@@ -6,3 +6,4 @@ Eighth grader programming trash, basically. 🗑<br>
 Current Projects:<br>
 - Life of Dust (not the repo on my account though, that one is scrapped)<br>
 - Small car that uses a fly brain to traverse along the ground
+- Physical demo of a perceptron using Arduino
